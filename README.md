@@ -10,3 +10,4 @@ Useful commands used on Internal bench DevOps projects
 ### make install "project" "environment) (e.g. make install wire staging) to install project chart
 ### helm ls (to list charts)
 ### helm status staging-wire (check status)
+### gcloud container clusters get-credentials bench-staging --zone us-central1-a --project bench-projects (change context)
