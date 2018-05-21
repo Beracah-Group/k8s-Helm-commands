@@ -22,5 +22,6 @@ Useful commands used on Internal bench DevOps projects
 > gcloud container clusters get-credentials bench-staging --zone us-central1-a --project bench-projects (change context)
 
 > kubectl get ns (get namespace)
-### kubectl get pods -n staging (get pods under namespace staging)
+
+> kubectl get pods -n staging (get pods under namespace staging)
 
