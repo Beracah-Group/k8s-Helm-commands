@@ -17,7 +17,8 @@ Useful commands used on Internal bench DevOps projects
 
 > helm ls (to list charts)
 
-### helm status staging-wire (check status)
+> helm status staging-wire (check status)
+
 ### gcloud container clusters get-credentials bench-staging --zone us-central1-a --project bench-projects (change context)
 ### kubectl get ns (get namespace)
 ### kubectl get pods -n staging (get pods under namespace staging)
