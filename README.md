@@ -25,3 +25,5 @@ Useful commands used on Internal bench DevOps projects
 
 > kubectl get pods -n staging (get pods under namespace staging)
 
+> kubectl get deployment -n staging (get deployments in staging namespace)
+
