@@ -27,3 +27,5 @@ Useful commands used on Internal bench DevOps projects
 
 > kubectl get deployment -n staging (get deployments in staging namespace)
 
+> kubectl describe deployment/staging-wire-backend -n staging (describe a single deployment in staging namespace)
+
