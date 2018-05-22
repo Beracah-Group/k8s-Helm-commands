@@ -29,3 +29,5 @@ Useful commands used on Internal bench DevOps projects
 
 > kubectl describe deployment/staging-wire-backend -n staging (describe a single deployment in staging namespace)
 
+> kubectl port-forward staging-wire-backend-5f8fc589f8-2xswj 3000:3000 -n staging (port forwaring of a pod in the staging namespace)
+
