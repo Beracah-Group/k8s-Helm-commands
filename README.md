@@ -31,3 +31,4 @@ Useful commands used on Internal bench DevOps projects
 
 > kubectl port-forward staging-wire-backend-5f8fc589f8-2xswj 3000:3000 -n staging (port forwaring of a pod in the staging namespace)
 
+> make edit art staging (access wire staging secrets)
