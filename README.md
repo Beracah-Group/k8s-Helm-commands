@@ -13,6 +13,8 @@ Useful commands used on Internal bench DevOps projects
 
 > gcloud auth application-default login (login)
 
+> helm plugin install https://github.com/futuresimple/helm-secrets (install secret plugin)
+
 > make install "project" "environment) (e.g. make install wire staging) to install project chart
 
 > helm ls (to list charts)
