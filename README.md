@@ -38,3 +38,5 @@ Useful commands used on Internal bench DevOps projects
 > install (install helm chart in a k8s cluster)
 
 > upgrade (update helm chart with changes for a new release)
+
+> encrypt (encrypt chart secrets file)
