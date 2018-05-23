@@ -33,4 +33,6 @@ Useful commands used on Internal bench DevOps projects
 
 > make edit art staging (access wire staging secrets)
 
-> init intialize helm against a cluster
+> init (intialize helm against a cluster)
+
+> install (install helm chart in a k8s cluster)
