@@ -36,3 +36,5 @@ Useful commands used on Internal bench DevOps projects
 > init (intialize helm against a cluster)
 
 > install (install helm chart in a k8s cluster)
+
+> upgrade (update helm chart with changes for a new release)
