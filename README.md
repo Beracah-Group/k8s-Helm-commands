@@ -46,3 +46,5 @@ Useful commands used on Internal bench DevOps projects
 > helm delete --purge staging-art (delete helm release called staging-art)
 
 > kubectl config current-context (check current k8s cluster context)
+
+> make upgrade ingress staging (upgarde ingress after modification)
