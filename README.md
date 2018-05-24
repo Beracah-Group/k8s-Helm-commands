@@ -42,3 +42,5 @@ Useful commands used on Internal bench DevOps projects
 > upgrade (update helm chart with changes for a new release)
 
 > encrypt (encrypt chart secrets file)
+
+> helm delete --purge staging-art (delete helm release called staging-art)
