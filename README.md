@@ -48,3 +48,5 @@ Useful commands used on Internal bench DevOps projects
 > kubectl config current-context (check current k8s cluster context)
 
 > make upgrade ingress staging (upgarde ingress after modification)
+
+> kubectl logs pod/staging-wire-bot-8795944c7-5k2l7 -n staging (logs command)
