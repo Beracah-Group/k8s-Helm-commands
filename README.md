@@ -47,7 +47,7 @@ Useful commands used on Internal bench DevOps projects
 
 > git rev-parse --short HEAD (get short commit head)
 
->
+> docker tag gcr.io/bench-projects/wire-bot gcr.io/bench-projects/wire-bot:$(git rev-parse --short HEAD) (tagging image with commit head)
 
 >
 
