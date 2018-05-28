@@ -35,6 +35,16 @@ Useful commands used on Internal bench DevOps projects
 
 > make edit art staging (access wire staging secrets)
 
+> kubectl get deploy -n staging (get deployments in staging namespace)
+
+>
+
+>
+
+>
+
+>
+
 > make init (intialize helm against a cluster)
 
 > make install --- (install helm chart in a k8s cluster)
