@@ -41,7 +41,7 @@ Useful commands used on Internal bench DevOps projects
 
 > kubectl get deploy staging-wire-bot -n staging -o yaml (view deployment yaml file)
 
->
+> kubectl set image deployment/staging-wire-bot bot=gcr.io/bench-projects/wire-bot:9b729c5 -n staging (update deployment with new image)
 
 >
 
