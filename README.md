@@ -43,6 +43,12 @@ Useful commands used on Internal bench DevOps projects
 
 > kubectl set image deployment/staging-wire-bot bot=gcr.io/bench-projects/wire-bot:9b729c5 -n staging (update deployment with new image)
 
+> git rev-parse HEAD (get repo commit head)
+
+>
+
+>
+
 >
 
 > make init (intialize helm against a cluster)
