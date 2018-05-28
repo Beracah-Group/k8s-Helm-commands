@@ -45,7 +45,7 @@ Useful commands used on Internal bench DevOps projects
 
 > git rev-parse HEAD (get repo commit head)
 
->
+> git rev-parse --short HEAD (get short commit head)
 
 >
 
