@@ -49,6 +49,8 @@ Useful commands used on Internal bench DevOps projects
 
 > docker tag gcr.io/bench-projects/wire-bot gcr.io/bench-projects/wire-bot:$(git rev-parse --short HEAD) (tagging image with commit head)
 
+> docker push gcr.io/bench-projects/wire-bot:$(git rev-parse --short HEAD) (push image)
+
 >
 
 > make init (intialize helm against a cluster)
