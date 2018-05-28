@@ -51,7 +51,7 @@ Useful commands used on Internal bench DevOps projects
 
 > docker push gcr.io/bench-projects/wire-bot:$(git rev-parse --short HEAD) (push image)
 
->
+> alias (new)=(real-command)
 
 > make init (intialize helm against a cluster)
 
