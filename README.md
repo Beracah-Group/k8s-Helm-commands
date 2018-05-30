@@ -76,3 +76,5 @@ Useful commands used on Internal bench DevOps projects
 > configure CI pipeline for wire-frontend
 
 > do surveys
+
+> review bash-utils-scripts
