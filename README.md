@@ -72,3 +72,5 @@ Useful commands used on Internal bench DevOps projects
 > to-dos
 
 > configure CI pipeline for wire api
+
+> configure CI pipeline for wire-frontend
