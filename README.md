@@ -75,3 +75,5 @@ HOF
 > kubectl logs pod/staging-wire-bot-8795944c7-5k2l7 -n staging (logs command)
 
 > kubectl get svc
+
+> kubectl get endpoints {service_name}
