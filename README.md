@@ -74,12 +74,4 @@ HOF
 
 > kubectl logs pod/staging-wire-bot-8795944c7-5k2l7 -n staging (logs command)
 
-> to-dos
-
-> configure CI pipeline for wire api
-
-> configure CI pipeline for wire-frontend
-
-> do surveys
-
-> review bash-utils-scripts
+> kubectl get svc
