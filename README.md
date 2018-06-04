@@ -1,8 +1,9 @@
 # k8s-Helm-commands
 Useful commands used on Internal bench DevOps projects
 
-wire
-ART
+wire,
+ART,
+Soc
 
 >Install helm
 
