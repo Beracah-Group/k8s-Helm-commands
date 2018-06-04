@@ -3,7 +3,8 @@ Useful commands used on Internal bench DevOps projects
 
 wire,
 ART,
-Soc
+Soc,
+HOF
 
 >Install helm
 
