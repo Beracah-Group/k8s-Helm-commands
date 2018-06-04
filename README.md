@@ -1,7 +1,7 @@
 # k8s-Helm-commands
 Useful commands used on Internal bench DevOps projects
 
-wire,
+wire (BOT, bend, fend),
 ART,
 Soc,
 HOF
