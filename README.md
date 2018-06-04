@@ -1,6 +1,8 @@
 # k8s-Helm-commands
 Useful commands used on Internal bench DevOps projects
 
+wire
+
 >Install helm
 
 >Install kubectl & minikube
