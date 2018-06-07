@@ -77,3 +77,6 @@ HOF
 > kubectl get svc
 
 > kubectl get endpoints {service_name}
+
+
+https://stackoverflow.com/questions/42101808/ingress-gives-502-error?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa stackoverflow answer solving 200 redirect to 302 because of autoresolve thus causing 502
