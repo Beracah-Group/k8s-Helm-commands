@@ -48,6 +48,8 @@ HOF
 
 > kubectl set image deployment/staging-wire-bot bot=gcr.io/bench-projects/wire-bot:9b729c5 -n staging (update deployment with new image)
 
+> docker build -t gcr.io/bench-projects/art2-backend .
+
 > git rev-parse HEAD (get repo commit head)
 
 > git rev-parse --short HEAD (get short commit head)
