@@ -58,7 +58,10 @@ HOF
 
 > docker push gcr.io/bench-projects/wire-bot:$(git rev-parse --short HEAD) (push image)
 
->  docker build -t gcr.io/bench-projects/art2-backend .
+> docker build -t gcr.io/bench-projects/art2-backend .
+
+> docker tag gcr.io/bench-projects/art2-backend gcr.io/bench-projects/art2-back
+end:$(git rev-parse --short HEAD)
 
 > alias (new)=(real-command)
 
