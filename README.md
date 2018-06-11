@@ -58,6 +58,8 @@ HOF
 
 > docker push gcr.io/bench-projects/wire-bot:$(git rev-parse --short HEAD) (push image)
 
+>  docker build -t gcr.io/bench-projects/art2-backend .
+
 > alias (new)=(real-command)
 
 > make init (intialize helm against a cluster)
