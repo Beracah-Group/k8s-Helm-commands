@@ -63,6 +63,8 @@ HOF
 > docker tag gcr.io/bench-projects/art2-backend gcr.io/bench-projects/art2-back
 end:$(git rev-parse --short HEAD)
 
+> docker push gcr.io/bench-projects/art2-backend:$(git rev-parse --short HEAD)
+
 > alias (new)=(real-command)
 
 > make init (intialize helm against a cluster)
