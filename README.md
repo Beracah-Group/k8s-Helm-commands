@@ -92,4 +92,6 @@ end:$(git rev-parse --short HEAD)
 
 > docker run -it gcr.io/bench-projects/art3-backend:staging-ea6c86d  (run docker image in gcr.io)
 
+>  source .env  (source env variables in .env home folder)
+
 https://stackoverflow.com/questions/42101808/ingress-gives-502-error?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa stackoverflow answer solving 200 redirect to 302 because of autoresolve thus causing 502
