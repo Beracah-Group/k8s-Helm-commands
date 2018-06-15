@@ -1,5 +1,5 @@
 # k8s-Helm-commands
-Useful Kubernetes commands used on Internal bench DevOps projects
+Useful Kubernetes and Helm commands used on Internal bench DevOps projects
 
 wire (BOT, bend, fend),
 ART,
