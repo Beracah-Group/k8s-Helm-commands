@@ -103,3 +103,9 @@ https://stackoverflow.com/questions/42101808/ingress-gives-502-error?utm_medium=
 GKE INGRESS SHIT
 
 > GKE Ingress controller
+
+source code and tutorial
+- https://github.com/kubernetes/charts/tree/master/stable/nginx-ingress
+https://github.com/GoogleCloudPlatform/community/blob/master/tutorials/nginx-ingress-gke/ingress-resource.yaml
+https://cloud.google.com/community/tutorials/nginx-ingress-gke
+https://github.com/kubernetes/ingress-gce/blob/master/README.md#frontend-https
