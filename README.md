@@ -107,5 +107,5 @@ GKE INGRESS SHIT
 source code and tutorial
 - https://github.com/kubernetes/charts/tree/master/stable/nginx-ingress
 - https://github.com/GoogleCloudPlatform/community/blob/master/tutorials/nginx-ingress-gke/ingress-resource.yaml
-https://cloud.google.com/community/tutorials/nginx-ingress-gke
-https://github.com/kubernetes/ingress-gce/blob/master/README.md#frontend-https
+- https://cloud.google.com/community/tutorials/nginx-ingress-gke
+- https://github.com/kubernetes/ingress-gce/blob/master/README.md#frontend-https
