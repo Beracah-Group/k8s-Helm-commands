@@ -112,3 +112,6 @@ source code and tutorial
 
 - https://github.com/kubernetes/helm/issues/3055
 - https://docs.bitnami.com/kubernetes/how-to/secure-kubernetes-services-with-ingress-tls-letsencrypt/
+
+
+- https://cloud.google.com/solutions/jenkins-on-kubernetes-engine-tutorial
