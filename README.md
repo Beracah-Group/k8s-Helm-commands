@@ -116,3 +116,7 @@ source code and tutorial
 GKE JENKINS SHIT
 
 - https://cloud.google.com/solutions/jenkins-on-kubernetes-engine-tutorial
+
+GKE MONITORING
+
+- https://cloud.google.com/kubernetes-engine/docs/how-to/monitoring
