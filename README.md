@@ -120,3 +120,4 @@ GKE JENKINS SHIT
 GKE MONITORING
 
 - https://cloud.google.com/kubernetes-engine/docs/how-to/monitoring
+- https://kubernetes.io/docs/tasks/debug-application-cluster/logging-stackdriver/#deploying-to-an-existing-cluster
