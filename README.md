@@ -100,7 +100,7 @@ end:$(git rev-parse --short HEAD)
 
 https://stackoverflow.com/questions/42101808/ingress-gives-502-error?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa stackoverflow answer solving 200 redirect to 302 because of autoresolve thus causing 502
 
-GKE INGRESS SHIT
+GKE INGRESS Links
 
 > GKE Ingress controller
 
@@ -113,7 +113,7 @@ source code and tutorial
 - https://github.com/kubernetes/helm/issues/3055
 - https://docs.bitnami.com/kubernetes/how-to/secure-kubernetes-services-with-ingress-tls-letsencrypt/
 
-GKE JENKINS SHIT
+GKE JENKINS Links
 
 - https://cloud.google.com/solutions/jenkins-on-kubernetes-engine-tutorial
 
