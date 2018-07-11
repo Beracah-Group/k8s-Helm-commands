@@ -99,6 +99,8 @@ end:$(git rev-parse --short HEAD)
 
 > curl ifconfig.co  (get ip address)
 
+> nslookup "domain" (check ip address domain is mapped to)
+
 https://stackoverflow.com/questions/42101808/ingress-gives-502-error?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa stackoverflow answer solving 200 redirect to 302 because of autoresolve thus causing 502
 
 GKE INGRESS Links
