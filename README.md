@@ -7,7 +7,7 @@ Soc,
 HOF,
 Andela Eats
 
-HELM QUICKSTART GUIDE
+HELM QUICKSTART / advanced GUIDE
 
 > https://docs.helm.sh/using_helm/#quickstart
 
