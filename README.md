@@ -5,7 +5,8 @@ wire (BOT, bend, fend),
 ART,
 Soc,
 HOF,
-Andela Eats
+Andela Eats,
+plugins
 
 HELM QUICKSTART / advanced GUIDE
 
