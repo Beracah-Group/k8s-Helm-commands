@@ -6,6 +6,7 @@ ART,
 Soc,
 HOF,
 Andela Eats,
+Feeds,
 plugins
 
 HELM QUICKSTART / advanced GUIDE
