@@ -9,8 +9,6 @@ Andela Eats,
 Feeds,
 plugins
 
-HELM QUICKSTART / advanced GUIDE
-
 > https://docs.helm.sh/using_helm/#quickstart
 
 >Install helm
