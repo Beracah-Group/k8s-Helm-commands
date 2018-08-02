@@ -11,9 +11,9 @@ plugins
 
 > https://docs.helm.sh/using_helm/#quickstart
 
->Install helm
+> Install helm
 
->Install kubectl & minikube
+> Install kubectl & minikube
 
 > minikube start (to communicate to remote cluster)
 
