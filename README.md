@@ -17,7 +17,7 @@ plugins
 
 > minikube start (to communicate to remote cluster)
 
-> make init
+> run `make init`
 
 > gcloud auth login (authenticate to cluster)
 
