@@ -105,7 +105,7 @@ end:$(git rev-parse --short HEAD)
 
 > nslookup "domain" (check ip address domain is mapped to)
 
-HELM SECRET DETAILS
+HELM SECRET LINKS
 
 > https://github.com/futuresimple/helm-secrets
 
