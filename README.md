@@ -1,7 +1,7 @@
 # Docker - k8s - Helm commands
 ## Docker, Kubernetes and Helm commands used on Internal bench DevOps projects
 
-Wire (BOT),
+Wire ),
 ART,
 Soc,
 HOF,
