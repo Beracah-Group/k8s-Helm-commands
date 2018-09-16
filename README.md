@@ -34,6 +34,8 @@ Feeds.
 
 > kubectl get ns (get namespace)
 
+> kubectl get svc (get service)
+
 > kubectl get pods -n staging (get pods under namespace staging)
 
 > kubectl get deployment -n staging (get deployments in staging namespace)
