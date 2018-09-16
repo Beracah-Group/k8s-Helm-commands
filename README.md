@@ -34,6 +34,8 @@ Feeds.
 
 > kubectl get ns (get namespace)
 
+> kubectl exec -it staging-wire-backend-56b84b5d8b-kc4w6 -n staging /bin/bash (exec commands in a pod)
+
 > kubectl get svc (get service)
 
 > kubectl get pods -n staging (get pods under namespace staging)
