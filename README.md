@@ -36,6 +36,8 @@ Feeds.
 
 > kubectl exec -it staging-wire-backend-56b84b5d8b-kc4w6 -n staging /bin/bash (exec commands in a pod)
 
+> kubectl port-forward staging-hof-backend-5f9cfcbfb6-6n4k5 8080:8080 -n staging (port forward)
+
 > kubectl get svc (get service)
 
 > kubectl get pods -n staging (get pods under namespace staging)
