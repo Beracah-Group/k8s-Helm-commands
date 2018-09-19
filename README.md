@@ -6,6 +6,7 @@ ART,
 Soc,
 HOF,
 Andela Eats,
+Andela social,
 Feeds.
 
 > https://docs.helm.sh/using_helm/#quickstart
