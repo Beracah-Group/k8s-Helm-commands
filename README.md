@@ -8,7 +8,7 @@ HOF,
 Andela Eats,
 Andela social,
 ESS,
-Feeds.
+Andela Feed,
 
 > https://docs.helm.sh/using_helm/#quickstart
 
