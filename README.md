@@ -10,6 +10,7 @@ Andela social,
 ESS,
 Andela Feed,
 Staging db,
+Production db.
 
 > https://docs.helm.sh/using_helm/#quickstart
 
