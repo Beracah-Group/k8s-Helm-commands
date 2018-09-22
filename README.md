@@ -9,6 +9,7 @@ Andela Eats,
 Andela social,
 ESS,
 Andela Feed,
+Staging db,
 
 > https://docs.helm.sh/using_helm/#quickstart
 
