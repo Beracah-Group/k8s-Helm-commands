@@ -11,8 +11,6 @@ ESS,
 Andela Feed,
 Travel readiness,
 Meal card,
-Staging db,
-Production db.
 
 > https://docs.helm.sh/using_helm/#quickstart
 
