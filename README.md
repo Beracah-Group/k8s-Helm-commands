@@ -12,6 +12,7 @@ Andela Feed,
 Travel readiness,
 Meal card,
 Staging db,
+production db,
 
 > https://docs.helm.sh/using_helm/#quickstart
 
