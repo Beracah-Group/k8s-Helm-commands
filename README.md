@@ -1,6 +1,6 @@
 ## Docker, Kubernetes and Helm commands used on Internal bench DevOps projects
 
-## Projects
+## Managed Projects
 Wire,
 ART,
 Soc,
