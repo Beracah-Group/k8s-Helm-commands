@@ -114,6 +114,8 @@ end:$(git rev-parse --short HEAD)
 
 > curl ifconfig.co  (get ip address)
 
+> curl ifconfig.co  (get ip address)
+
 > nslookup "domain" (check ip address domain is mapped to)
 
 HELM SECRETS LINKS
