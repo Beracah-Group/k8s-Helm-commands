@@ -10,7 +10,6 @@ andela socials,
 Andela Eats,
 Andela socials,
 Engagement Support Automation,
-Andela Feed,
 Travel readiness,
 Meal card
 
