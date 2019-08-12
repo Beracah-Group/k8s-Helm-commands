@@ -53,7 +53,7 @@ Meal card
 
 > kubectl port-forward staging-wire-backend-5f8fc589f8-2xswj 3000:3000 -n staging (port forwaring of a pod in the staging namespace)
 
-> make edit art -n prod (access wire staging secrets)
+> make edit art -n prod (access wire prod secrets)
 
 > kubectl get deploy -n staging (get deployments in staging namespace)
 
