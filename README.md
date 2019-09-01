@@ -1,6 +1,6 @@
 ## Docker, Kubernetes and Helm commands used on Internal bench DevOps projects (Andela)
 
-### Managed Projects
+## Managed Projects
 Wire,
 ART,
 Soc,
