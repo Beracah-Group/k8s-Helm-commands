@@ -1,4 +1,4 @@
-## Docker-kubernetes and Helm commands used on Internal bench DevOps projects (Andela internal products)
+## Docker, kubernetes and Helm commands used on Internal bench DevOps projects (Andela internal products)
 
 ## Managed Projects
 Wire,
