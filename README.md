@@ -9,7 +9,7 @@ Meals,
 andela socials,
 Andela Eats,
 Andela socials,
-Engagement Support Automation,
+Engagement Support Automation
 Travel readiness
 Meal card. 
 
