@@ -4,7 +4,7 @@
 Wire,
 ART,
 Soc,
-HOF,
+HOF
 Meals
 andela socials
 Andela Eats
