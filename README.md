@@ -8,7 +8,7 @@ HOF,
 Meals,
 andela socials,
 Andela Eats,
-Andela socials,
+Andela socials
 Engagement Support Automation
 Travel readiness
 Meal card. 
