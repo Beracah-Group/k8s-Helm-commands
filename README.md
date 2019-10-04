@@ -7,7 +7,7 @@ Soc,
 HOF,
 Meals,
 andela socials,
-Andela Eats,
+Andela Eats
 Andela socials
 Engagement Support Automation
 Travel readiness
