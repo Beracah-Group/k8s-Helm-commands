@@ -3,7 +3,7 @@
 ## Managed Projects
 Wire,
 ART,
-Soc,
+Soc
 HOF
 Meals
 andela socials
