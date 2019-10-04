@@ -10,7 +10,7 @@ andela socials,
 Andela Eats,
 Andela socials,
 Engagement Support Automation,
-Travel readiness,
+Travel readiness
 Meal card. 
 
 > https://docs.helm.sh/using_helm/#quickstart
