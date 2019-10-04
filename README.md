@@ -6,7 +6,7 @@ ART,
 Soc,
 HOF,
 Meals,
-andela socials,
+andela socials
 Andela Eats
 Andela socials
 Engagement Support Automation
