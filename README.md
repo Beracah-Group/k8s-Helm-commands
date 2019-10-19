@@ -16,7 +16,7 @@ Meal card.
 
 > https://docs.helm.sh/using_helm/#quickstart
 
-> Install helm
+> First Install helm
 
 > Install kubectl & minikube
 
