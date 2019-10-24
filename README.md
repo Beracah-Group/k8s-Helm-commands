@@ -1,6 +1,6 @@
 ## Docker kubernetes and Helm commands used on DevOps projects (Andela Internal Products)
 
-## Managed Projects
+## Managed Projects,
 
 Wire
 ART
