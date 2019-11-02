@@ -12,7 +12,7 @@ Andela Eats
 Andela socials
 Engagement Support Automation
 Travel readiness
-Meal card. 
+Meal card
 
 > https://docs.helm.sh/using_helm/#quickstart
 
