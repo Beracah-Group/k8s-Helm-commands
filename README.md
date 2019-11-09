@@ -3,7 +3,7 @@
 ## Managed Projects;
 
 Wire
-ART
+ART.
 Soc
 HOF
 Meals
