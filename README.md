@@ -2,7 +2,7 @@
 
 ## Managed Projects;
 
-Wire
+Wire.
 ART
 Soc
 HOF
