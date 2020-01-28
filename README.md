@@ -1,4 +1,4 @@
-## Docker kubernetes and Helm commands used on DevOps projects (Former Andela Internal Products).
+## Docker kubernetes and Helm commands used on DevOps projects (Former Andela Internal Products)
 
 
 ## Projects.
