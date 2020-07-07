@@ -1,7 +1,7 @@
 ## Docker kubernetes and Helm commands used on DevOps projects (Former Andela Internal Products)
 
 
-## Projects (deprecated / nolonger supported)
+## Projects (deprecated / nolonger supported / non existent)
 
 Wire
 ART
