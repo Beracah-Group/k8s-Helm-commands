@@ -18,7 +18,7 @@ Meal card
 
 > https://docs.helm.sh/using_helm/#quickstart
 
-> First Install helm
+> First Install helm (based on old version that required tiller)
 
 > Install kubectl & minikube
 
