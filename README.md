@@ -24,7 +24,7 @@ Meal card
 
 > minikube start (to communicate to remote cluster)
 
-> run `make init`
+> run `make init` (all abstraction of commands done in makefile)
 
 > gcloud auth login (authenticate to cluster) (this too changed regarding using GCR)
 
