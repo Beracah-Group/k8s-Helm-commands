@@ -26,7 +26,7 @@ Meal card
 
 > run `make init`
 
-> gcloud auth login (authenticate to cluster)
+> gcloud auth login (authenticate to cluster) (this too changed regarding using GCR)
 
 > gcloud auth application-default login (login)
 
